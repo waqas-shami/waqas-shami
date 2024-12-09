@@ -1,20 +1,31 @@
 <h1 align="center">Hi 👋, I'm Waqas </h1>
-<h3 align="center">A Software Engineer from Sweden, 💻 Learn, Code, Grow with AI, Python, AWS, and productivity unlocked</h3>
+<h3 align="center">A Software Engineer from Stockholm, Sweden. <br>
+💻 Learn, Code, Grow with AI, Python, AWS, and productivity unlocked</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-shami&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-shami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-shami&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-shami" /><br<br>
+
+Welcome to my world of innovation, where technology meets real-world impact. 
+
+Imagine harnessing the full power of AWS, AI, and Machine Learning to solve complex problems and drive business success—this is where I come in.
+
+So, if you're looking for more than just a coder—if you're ready to unlock the full potential of your data and technology—let’s connect. I’m eager to show you how we can build something extraordinary together.
+
+Ready to make your business smarter? Let’s chat today!
+
+ </p>
 
 
 - 🔭 I’m currently working on **Pandas-Driven Data Analysis Pipeline & Home Assistant Dashboard**
 
 - 🌱 I’m currently learning **PyTorch, canvasjs and chartjs**
 
-- 👨‍💻 All of my projects are available at [waqasshami.com](waqasshami.com)
+- 👨‍💻 All of my projects are available at [https://waqasshami.com](https://waqasshami.com)
 
-- 📝 I regularly write articles on [waqasshami.com](waqasshami.com)
+- 📝 I regularly write articles on [https://waqasshami.com](https://waqasshami.com)
 
 - 💬 Ask me about **Data, Productivity,Node.js, css3, html5, Tailwind**
 
-- 📫 How to reach me **waqas@waqasshami.com**
+- 📫 How to reach me **[waqas@waqasshami.com](mailto:waqas@waqasshami.com)**
 
 - ⚡ Fun fact **Coding and productivity are a match made in heaven—thanks to AI! It’s like having an assistant who never takes coffee breaks and always gets the job done💻🤖☕️**
 
