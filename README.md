@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waqas Shami</h1>
+<h1 align="center">Hi 👋, I'm Waqas </h1>
 <h3 align="center">A Software Engineer from Sweden, 💻 Learn, Code, Grow with AI, Python, AWS, and productivity unlocked</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-shami&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-shami" /> </p>
